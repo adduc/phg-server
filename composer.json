@@ -1,0 +1,16 @@
+{
+    "name": "adduc/p-hg",
+    "authors": [
+        {
+            "name": "John S Long",
+            "email": "a@88k.us"
+        }
+    ],
+    "require": {
+
+    },
+    "config": {
+        "vendor-dir":"app/vendor",
+        "bin-dir":"app/vendor/bin"
+    }
+}
